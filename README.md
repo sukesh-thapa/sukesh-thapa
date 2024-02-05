@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Dev.
 - 🌱 I’m currently on Frontend tech such as JavaScript, React, Node.js and MongoDB.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through email - sukesh.thapa2023@gmail.com or contact number - +918837428507
+- 📫 You can reach me through email - sukesh.thapa2023@gmail.com or contact number - +918837428507
 
 <!---
 sukesh-thapa/sukesh-thapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
