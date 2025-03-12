@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🔭 Currently Searching as a **Full-Stack Developer**  
+- 🔭 Currently Searching as a **Frontend Developer**  
 - 🌱 Learning **Node.Js**  
 - 💡 Exploring **Microservices & Scalable Architectures**  
 - 💬 Ask me about **React, Node.js, TypeScript, MongoDB, SQL**  
@@ -22,16 +22,16 @@
 ---
 
 ### 🛠️ **Tech Stack**
-**Frontend**  
+**Frontend** : HTML, CSS, JavaScript, React.js
 
 
-**Backend**  
+**Backend**  : Python, Node.js
 
-**DevOps & Tools**  
+**DevOps & Tools** : Jenkins, Git 
 
 
 ### 🏆 **Top Projects**
-📌 **Job Search Portal** (React, Next.js, Tailwind, Stripe) → [View Project](https://github.com/sukesh-thapa/job-lane)  
+📌 **Job Search Portal** (React, Next.js, Tailwind, Stripe) → [View Project](https://job-frontend-red.vercel.app/)  
 📌 **certificate-verification-system App** (Socket.io, React, Node.js) → [View Project](https://github.com/sukesh-thapa/certificate-verification-system)  
 ---
 
